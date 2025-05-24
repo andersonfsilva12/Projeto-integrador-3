@@ -8,7 +8,7 @@ const char* ssid = "WIFI do usuário";
 const char* password = "SENHA do WIFI";
 
 // Endereço do servidor Python
-const char* serverName = "http://192.168.1.109:5000/sensor";
+const char* serverName = "http://192.168.x.xxx:5000/sensor";
 
 // Configura cliente NTP para obter data e hora
 WiFiUDP ntpUDP;
