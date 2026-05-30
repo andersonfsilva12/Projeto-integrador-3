@@ -6,6 +6,7 @@ Link da apresentação do projeto: https://www.youtube.com/watch?v=H5deNdZ5nZs&t
 
 Link do site no ar: https://educamente12.pythonanywhere.com/html/index.html
 
+
 # 💫 About Me:
 ZF Group Limeira/Brazil<br>Smart Factory computer engineering intern<br>IoT - industia 4.0
 
